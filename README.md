@@ -19,3 +19,4 @@ This (`.md`) file have the list of my todays learning
 * Clean Working
 * Daily Updates
 * Full handson
+* Do practice
