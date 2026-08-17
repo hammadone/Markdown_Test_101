@@ -14,3 +14,8 @@ This (`.md`) file have the list of my todays learning
 ## 3. You can see code and other deetails.
 * **`Work In Progress`**
 * Daily updates will be there
+
+## 4. Your a doing nice job.
+* You have cleang Working
+* Daily Updates
+* Full handson
