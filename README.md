@@ -16,6 +16,6 @@ This (`.md`) file have the list of my todays learning
 * Daily updates will be there
 
 ## 4. Your a doing nice job.
-* You have cleang Working
+* Clean Working
 * Daily Updates
 * Full handson
