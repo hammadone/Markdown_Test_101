@@ -11,3 +11,6 @@ This (`.md`) file have the list of my todays learning
 * **`May be Funcation`** practice handson
 
 ---
+## 3. You can see code and other deetails.
+* **`Work In Progress`**
+* Daily updates will be there
